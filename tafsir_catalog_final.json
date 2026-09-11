@@ -1,0 +1,154 @@
+[
+  {
+    "id": 0,
+    "fileName": "default.db",
+    "title": "التفسير البسيط",
+    "author": "غير معروف",
+    "downloadUrl": "https://github.com/hmo2006hmo-hue/explanation/releases/download/explanation_1v/default.db",
+    "estimatedSizeBytes": 27807744
+  },
+  {
+    "id": 1,
+    "fileName": "Tafsir_1.db",
+    "title": "تفسير نور الثقلين",
+    "author": "غير معروف",
+    "downloadUrl": "https://github.com/hmo2006hmo-hue/explanation/releases/download/explanation_1v/Tafsir_1.db",
+    "estimatedSizeBytes": 16449536
+  },
+  {
+    "id": 2,
+    "fileName": "Tafsir_2.db",
+    "title": "البرهان في تفسير القرآن",
+    "author": "غير معروف",
+    "downloadUrl": "https://github.com/hmo2006hmo-hue/explanation/releases/download/explanation_1v/Tafsir_2.db",
+    "estimatedSizeBytes": 16367616
+  },
+  {
+    "id": 3,
+    "fileName": "Tafsir_3.db",
+    "title": "تفسير الصافي",
+    "author": "غير معروف",
+    "downloadUrl": "https://github.com/hmo2006hmo-hue/explanation/releases/download/explanation_1v/Tafsir_3.db",
+    "estimatedSizeBytes": 15478784
+  },
+  {
+    "id": 4,
+    "fileName": "Tafsir_4.db",
+    "title": "تفسير الصافي",
+    "author": "غير معروف",
+    "downloadUrl": "https://github.com/hmo2006hmo-hue/explanation/releases/download/explanation_1v/Tafsir_4.db",
+    "estimatedSizeBytes": 6504448
+  },
+  {
+    "id": 5,
+    "fileName": "Tafsir_5.db",
+    "title": "التفسير (للعیاشی)",
+    "author": "غير معروف",
+    "downloadUrl": "https://github.com/hmo2006hmo-hue/explanation/releases/download/explanation_1v/Tafsir_5.db",
+    "estimatedSizeBytes": 2543616
+  },
+  {
+    "id": 6,
+    "fileName": "Tafsir_6.db",
+    "title": "تفسير القمی",
+    "author": "غير معروف",
+    "downloadUrl": "https://github.com/hmo2006hmo-hue/explanation/releases/download/explanation_1v/Tafsir_6.db",
+    "estimatedSizeBytes": 2064384
+  },
+  {
+    "id": 7,
+    "fileName": "Tafsir_7.db",
+    "title": "تفسير فرات الكوفي",
+    "author": "غير معروف",
+    "downloadUrl": "https://github.com/hmo2006hmo-hue/explanation/releases/download/explanation_1v/Tafsir_7.db",
+    "estimatedSizeBytes": 950272
+  },
+  {
+    "id": 8,
+    "fileName": "Tafsir_8.db",
+    "title": "التفسير المنسوب إلى الإمام العسکري عليه السلام",
+    "author": "غير معروف",
+    "downloadUrl": "https://github.com/hmo2006hmo-hue/explanation/releases/download/explanation_1v/Tafsir_8.db",
+    "estimatedSizeBytes": 1253376
+  },
+  {
+    "id": 9,
+    "fileName": "Tafsir_9.db",
+    "title": "غير معروف",
+    "author": "غير معروف",
+    "downloadUrl": "https://github.com/hmo2006hmo-hue/explanation/releases/download/explanation_1v/Tafsir_9.db",
+    "estimatedSizeBytes": 16486400
+  },
+  {
+    "id": 10,
+    "fileName": "Tafsir_10.db",
+    "title": "غير معروف",
+    "author": "غير معروف",
+    "downloadUrl": "https://github.com/hmo2006hmo-hue/explanation/releases/download/explanation_1v/Tafsir_10.db",
+    "estimatedSizeBytes": 29389824
+  },
+  {
+    "id": 11,
+    "fileName": "Tafsir_11.db",
+    "title": "غير معروف",
+    "author": "غير معروف",
+    "downloadUrl": "https://github.com/hmo2006hmo-hue/explanation/releases/download/explanation_1v/Tafsir_11.db",
+    "estimatedSizeBytes": 27807744
+  },
+  {
+    "id": 12,
+    "fileName": "Tafsir_12.db",
+    "title": "غير معروف",
+    "author": "غير معروف",
+    "downloadUrl": "https://github.com/hmo2006hmo-hue/explanation/releases/download/explanation_1v/Tafsir_12.db",
+    "estimatedSizeBytes": 16565248
+  },
+  {
+    "id": 13,
+    "fileName": "Tafsir_13.db",
+    "title": "غير معروف",
+    "author": "غير معروف",
+    "downloadUrl": "https://github.com/hmo2006hmo-hue/explanation/releases/download/explanation_1v/Tafsir_13.db",
+    "estimatedSizeBytes": 26500096
+  },
+  {
+    "id": 14,
+    "fileName": "Tafsir_14.db",
+    "title": "غير معروف",
+    "author": "غير معروف",
+    "downloadUrl": "https://github.com/hmo2006hmo-hue/explanation/releases/download/explanation_1v/Tafsir_14.db",
+    "estimatedSizeBytes": 16486400
+  },
+  {
+    "id": 15,
+    "fileName": "Tafsir_15.db",
+    "title": "غير معروف",
+    "author": "غير معروف",
+    "downloadUrl": "https://github.com/hmo2006hmo-hue/explanation/releases/download/explanation_1v/Tafsir_15.db",
+    "estimatedSizeBytes": 16565248
+  },
+  {
+    "id": 16,
+    "fileName": "Tafsir_16.db",
+    "title": "غير معروف",
+    "author": "غير معروف",
+    "downloadUrl": "https://github.com/hmo2006hmo-hue/explanation/releases/download/explanation_1v/Tafsir_16.db",
+    "estimatedSizeBytes": 26500096
+  },
+  {
+    "id": 17,
+    "fileName": "Tafsir_17.db",
+    "title": "غير معروف",
+    "author": "غير معروف",
+    "downloadUrl": "https://github.com/hmo2006hmo-hue/explanation/releases/download/explanation_1v/Tafsir_17.db",
+    "estimatedSizeBytes": 27807744
+  },
+  {
+    "id": 18,
+    "fileName": "Tafsir_18.db",
+    "title": "غير معروف",
+    "author": "غير معروف",
+    "downloadUrl": "https://github.com/hmo2006hmo-hue/explanation/releases/download/explanation_1v/Tafsir_18.db",
+    "estimatedSizeBytes": 29389824
+  }
+]
